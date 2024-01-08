@@ -1,5 +1,6 @@
 {
   "name": "expense-tracker11",
+  "homepage": "https://sandeep2347.github.io/Expense-tracker-react-app-firebase/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
